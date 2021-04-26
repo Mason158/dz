@@ -1,0 +1,16 @@
+C:\Users\Mason\source\repos\dz\dz\bin\Debug\net5.0\dz.exe
+C:\Users\Mason\source\repos\dz\dz\bin\Debug\net5.0\dz.deps.json
+C:\Users\Mason\source\repos\dz\dz\bin\Debug\net5.0\dz.runtimeconfig.json
+C:\Users\Mason\source\repos\dz\dz\bin\Debug\net5.0\dz.runtimeconfig.dev.json
+C:\Users\Mason\source\repos\dz\dz\bin\Debug\net5.0\dz.dll
+C:\Users\Mason\source\repos\dz\dz\bin\Debug\net5.0\ref\dz.dll
+C:\Users\Mason\source\repos\dz\dz\bin\Debug\net5.0\dz.pdb
+C:\Users\Mason\source\repos\dz\dz\obj\Debug\net5.0\dz.csprojAssemblyReference.cache
+C:\Users\Mason\source\repos\dz\dz\obj\Debug\net5.0\dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mason\source\repos\dz\dz\obj\Debug\net5.0\dz.AssemblyInfoInputs.cache
+C:\Users\Mason\source\repos\dz\dz\obj\Debug\net5.0\dz.AssemblyInfo.cs
+C:\Users\Mason\source\repos\dz\dz\obj\Debug\net5.0\dz.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\dz\dz\obj\Debug\net5.0\dz.dll
+C:\Users\Mason\source\repos\dz\dz\obj\Debug\net5.0\ref\dz.dll
+C:\Users\Mason\source\repos\dz\dz\obj\Debug\net5.0\dz.pdb
+C:\Users\Mason\source\repos\dz\dz\obj\Debug\net5.0\dz.genruntimeconfig.cache
